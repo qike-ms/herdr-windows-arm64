@@ -1,0 +1,31 @@
+Herdr native Windows ARM64 source preservation
+
+Herdr app and herdr-core are maintained by herdrdev and licensed Apache-2.0.
+https://github.com/herdrdev/herdr-app
+https://github.com/herdrdev/herdr-core
+
+Ghostty is copyright Mitchell Hashimoto and Ghostty contributors, MIT licensed.
+The patches include adaptations of Ghostty source and its build definitions.
+https://github.com/ghostty-org/ghostty
+See licenses/Ghostty-MIT.txt.
+
+uucode 0.2.0 is copyright Jacob Sandlund, MIT licensed.
+The overlay preserves its source and Unicode data with Zig compatibility edits.
+https://github.com/jacobsandlund/uucode
+See overlay/ghostty/pkg/uucode/LICENSE.md, licenses/uucode-utf8-MIT.txt,
+and licenses/Unicode-3.0.txt.
+
+The translate-c/Aro dependency remains remote and hash-pinned in patched Zig
+manifests. Its source is not redistributed as a separate archive here.
+
+Rust and Zig license notices are preserved within the relevant patches and
+overlay files. Reconstructed Herdr source includes the complete upstream
+Cargo notices and the refreshed native build notices.
+
+Microsoft ConPTY is provided separately under its accompanying license.
+See licenses/Microsoft.Windows.Console.ConPTY-LICENSE.txt and
+licenses/Microsoft.Windows.Console.ConPTY-NOTICE.md.
+Microsoft compiler and Windows SDK binaries are not redistributed.
+
+New repository scripts/documentation are provided under Apache-2.0.
+Existing third-party files and patch contents retain their upstream licenses.

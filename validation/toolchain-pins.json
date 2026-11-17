@@ -1,0 +1,44 @@
+{
+  "rust": "1.99.1 ARM64",
+  "zig": "0.17.1 ARM64",
+  "llvm": "23.1.5 ARM64 official tar.xz sha256 f06382f2c99c68a4e80f7044446df1fcf52bc3cc05158626bd0b966d51a5369a",
+  "msvc": [
+    {
+      "id": "Microsoft.VC.14.50.18.0.Tools.HostARM64.TargetARM64.base",
+      "version": "14.50.35728",
+      "PayloadSha256": "3e2e3525c6d02c05f55266bbcc24a0866a282a88eb05d9c3bee93f5c215b2890"
+    },
+    {
+      "id": "Microsoft.VC.14.50.18.0.Tools.HostARM64.TargetARM64.Res.base",
+      "version": "14.50.35728",
+      "PayloadSha256": "e4073050944e91e93198772cd982d25d549ddb39f9871e2996d294ea1477b802"
+    },
+    {
+      "id": "Microsoft.VC.14.50.18.0.CRT.Headers.base",
+      "version": "14.50.35717",
+      "PayloadSha256": "428bcda4a867056ab696aeca95b1057f5282aa9a8121481e7787fae7548efde2"
+    },
+    {
+      "id": "Microsoft.VC.14.50.18.0.CRT.ARM64.Desktop.base",
+      "version": "14.50.35727",
+      "PayloadSha256": "e0bfc64d582e38b1ba5c21a54ce5b70c079e906cd6387923bd84c7f1cec82125"
+    },
+    {
+      "id": "Microsoft.VC.14.50.18.0.CRT.ARM64.Desktop.debug.base",
+      "version": "14.50.35727",
+      "PayloadSha256": "23af3422f8608f61779957470ff07b2b7f82ea535a9f36def9c8280c55426e76"
+    }
+  ],
+  "windowsSdk": {
+    "Version": "10.0.26100.7705",
+    "BaseSha256": "ff455660bee071a744715a9665666fa29c07681579d3d815959a9eec5a556424",
+    "Arm64Sha256": "03bc0c03d439cef85074bbcd425f9d5d3a6d3b467967acd21da3ba6dfeeafa67"
+  },
+  "oneCoreCrt": {
+    "sha256": "8959ea1cbda37b983cc247518e5d11374ab1f9560a4760e8cae5242129c2b20b",
+    "id": "Microsoft.VC.14.50.18.0.CRT.ARM64.OneCore.Desktop.base",
+    "url": "https://download.visualstudio.microsoft.com/download/pr/be23510c-7b15-4b16-9921-938d10e17992/8959ea1cbda37b983cc247518e5d11374ab1f9560a4760e8cae5242129c2b20b/Microsoft.VC.14.50.18.0.CRT.ARM64.OneCore.Desktop.base.vsix",
+    "version": "14.50.35727"
+  },
+  "note": "Publisher artifact identities recorded at original build time; tools are not redistributed. See build.md for expected layout."
+}

@@ -1,0 +1,2412 @@
+[
+  {
+    "project": "herdr-app",
+    "path": "Cargo.lock",
+    "sha256Lf": "90a81788ce064ee938155b2e8c3028f4f93a9e633eb0831e8d06ae71185394da"
+  },
+  {
+    "project": "herdr-app",
+    "path": "crates/ghostty-sys/build.rs",
+    "sha256Lf": "e02e9e313133c388a4995351ddd8a0ea87c9da7798381911511cff5911d17286"
+  },
+  {
+    "project": "herdr-app",
+    "path": "licenses/inventory.json",
+    "sha256Lf": "f8b1f8cf18ba84bb9001a0d6f98a90a8c90e53e0a887e1515ced462f43cc9f72"
+  },
+  {
+    "project": "herdr-app",
+    "path": "licenses/Rust-1.99.1.txt",
+    "sha256Lf": "8f58a0d0a7b22793025928d251b3f7f7eb10301a013cbaef174955e2518e5d08"
+  },
+  {
+    "project": "herdr-app",
+    "path": "THIRD-PARTY-NOTICES",
+    "sha256Lf": "c1573678fa83339db460326542b1e19cbb1e3fdcc4c7e216a972550186172998"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/build.zig",
+    "sha256Lf": "418a5a97fc97245ba9719fd6dc61a3b8b592dd04604ffcf217e8150690724637"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/build.zig.zon",
+    "sha256Lf": "39b19bd270e6de1363071d5b5b6dea79294c655c34f45967c6f7fafbd40f71f3"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/dist/linux/app.desktop.in",
+    "sha256Lf": "8ffe81260ad4ef6ea901941eb86d2c9798bdf19dff012a83c1d08c25dbe40cda"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/dist/linux/dbus.service.flatpak.in",
+    "sha256Lf": "5cafa127e55f6f413bd044918a978dc12dcd73a1a370e461963e13b7ee678bc5"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/dist/linux/dbus.service.in",
+    "sha256Lf": "7f99f0b200637a4bfb95490c30a68bf5b5fb79c932f6af445a3150449694f483"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/dist/linux/systemd.service.in",
+    "sha256Lf": "f2a9a9a8584302918dfa37ad1e1f6234a8edcf15e4b2e6c96d29e0261bb9ce46"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/pkg/afl++/build.zig",
+    "sha256Lf": "b4ccceb13dbb2c6c6a7f6489e3c745bc625b549187cfe394e3438b9a5eb2c2a4"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/pkg/apple-sdk/build.zig",
+    "sha256Lf": "12942001a61e2b537e9082bf695e96d6e83914079ee0faecd86984c39de67160"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/pkg/fontconfig/common.zig",
+    "sha256Lf": "62f89be0c816a2dba33ab4f844ce33547598406c6a302d502788eeb0da304393"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/pkg/libxml2/build.zig",
+    "sha256Lf": "6b88c93d21de3136ddc5c5c73b35a76db36e3b7cd3568fdac92a0251953c7287"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/pkg/macos/os/signpost.zig",
+    "sha256Lf": "332a007d9706c349ba2b04e70a1c9df22f04591d5eb1a46eb8e453272c7e1175"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/pkg/oniguruma/build.zig",
+    "sha256Lf": "8cfc67c2391201373947a75cf0e5b06edee3067bf7cc1dca231924ff9bb4cd9c"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/pkg/translate-c/build.zig",
+    "sha256Lf": "8e6a4f66b5926bc12a43b8d6e153a33900698887917a32d4b8e142c0f524b366"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/pkg/translate-c/build.zig.zon",
+    "sha256Lf": "0191fdbfe5c075c789b6cce87250b1e590b6a85a1a538e07473b892caeaaf4b6"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/pkg/uucode/build.zig",
+    "sha256Lf": "1bd861c6c479d77e0ddac31f77fe52c9b4375b4a1bef57fc3fafffc63e540ec9"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/pkg/uucode/build.zig.zon",
+    "sha256Lf": "cd89284dfeb723b88c8cc4c900c04f37bf0247e4f5acf4d6dd18350be7dcee4e"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/pkg/uucode/LICENSE.md",
+    "sha256Lf": "312e901e142be2477b4ca859e9311f9e3f80d33372991759b7921c1893605f33"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/pkg/uucode/README.md",
+    "sha256Lf": "4b5d0431cb8b467947c7481513fa81a167b76a7b00f27f887cfb18e5eb7bb031"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/pkg/uucode/src/ascii.zig",
+    "sha256Lf": "627ecd109cd15f9e3c7214c30542dc2a5f380b443cf70959ea99d97f2776da14"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/pkg/uucode/src/code_point.zig",
+    "sha256Lf": "cd9a58a7aa3472dea938d917e6fe6a465d2856d9d5e49f179c1d3ca2a046e3bf"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/pkg/uucode/src/components.zig",
+    "sha256Lf": "1bc4de885dea776dc4581ca01930805dc7ee72cddc2cec45a8f23410199befe3"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/pkg/uucode/src/config.zig",
+    "sha256Lf": "c8b67f5586c381718c873eda9981c877058ed10f7fec7e7064fa5cf55b1c9afb"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/pkg/uucode/src/fields.zig",
+    "sha256Lf": "dc0323076ff563000da500fedb135d76b042d9a8edc86062ffc0dfb5f96567bb"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/pkg/uucode/src/generate.zig",
+    "sha256Lf": "77bdde88f1615ee91bfbaf538ad7849e1ea1dbabb702e633aa3fa6ea9880ae84"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/pkg/uucode/src/get.zig",
+    "sha256Lf": "e8475c31b84040cca38f30ea35eae53c93d1580c76e2b8ef1b6e7cd5fb5a10ca"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/pkg/uucode/src/grapheme.zig",
+    "sha256Lf": "12c61c7408b0838953ca0998b17d5a6b2b14f8bf3f5d393e48a74b92a5b205f2"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/pkg/uucode/src/multi_slice.zig",
+    "sha256Lf": "d4e94e4d4a9aefa58bf139775e7cfa416a68d0e03477a6a272dc80ce772b60e7"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/pkg/uucode/src/quirks.zig",
+    "sha256Lf": "95698ac29969985acd5a54435750096641d014ea44d1f183973a37b977f8f0d5"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/pkg/uucode/src/root.zig",
+    "sha256Lf": "ff1e17c6990d4deb61472ba3040d1c90ae35ccde5f107221ab555e651270c232"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/pkg/uucode/src/storage.zig",
+    "sha256Lf": "02233ed2b99593a29bf0524d7ce6f8e5093e87bb55c8bb004d01f7f452463e93"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/pkg/uucode/src/test/build_config.zig",
+    "sha256Lf": "ebc383434c8330b8d7cac2db1e1758ac4e32d7788412878fd5e5231275282c92"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/pkg/uucode/src/types.zig",
+    "sha256Lf": "85d995d96638d234358bbf0d5763c9ade0eb2c3c1f388afc4482c154bed60efa"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/pkg/uucode/src/ucd_inputs.zig",
+    "sha256Lf": "41594ae81a0aec86a7d8d72ef35c7e01923df701c3e4bc4a2fcfa31c7852694e"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/pkg/uucode/src/utf8.zig",
+    "sha256Lf": "62b3ed0d0945f6243d94d41411b37f67472bc64e4b8477825dd8b90ee971b622"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/pkg/uucode/ucd/.gitignore",
+    "sha256Lf": "43211265ae37eef18327400c5e4c46950b909a7fe316f169eceb11c2866f2a42"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/pkg/uucode/ucd/auxiliary/GraphemeBreakProperty.txt",
+    "sha256Lf": "0839dcb79e4ac639ecd538b1abf7c9d22e3f9dd265b7e182d33627aa4d75b45a"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/pkg/uucode/ucd/auxiliary/GraphemeBreakTest.txt",
+    "sha256Lf": "b0cf047ee94485bbdc846de2b902f5f8a815f6b674f9d04223cddadd91c9df31"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/pkg/uucode/ucd/BidiBrackets.txt",
+    "sha256Lf": "4b3b62e4a14b84ee752808c810c602534921c09a4a1bf78cfbee566d66c125b3"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/pkg/uucode/ucd/BidiMirroring.txt",
+    "sha256Lf": "cd54810ebf52f0e61a730c8b9cb25975de6c85f6d788a559b416afd548923fd6"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/pkg/uucode/ucd/Blocks.txt",
+    "sha256Lf": "a58f8d322f3c5e254f9f97b1cbf76a454a7e02de6ac35619a5e4f27aaabfd553"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/pkg/uucode/ucd/CaseFolding.txt",
+    "sha256Lf": "a004797658a457bec4dc11683e39f69249ea3b595b752dbea6721c4c9f587b0d"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/pkg/uucode/ucd/CompositionExclusions.txt",
+    "sha256Lf": "c759b100e9ae8960ae6b50fc5765950a7581fd9f30d4ef95f68f25a6d97e818e"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/pkg/uucode/ucd/DerivedCoreProperties.txt",
+    "sha256Lf": "09c928886a178fcafd93c29e4bd59073a058e5a100b716d425cb563ab50f68c9"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/pkg/uucode/ucd/emoji/emoji-data.txt",
+    "sha256Lf": "80d00f8e616a0ef27fd6b8de3b758c06383b5d917e2977709578e68baf733bf1"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/pkg/uucode/ucd/emoji/emoji-variation-sequences.txt",
+    "sha256Lf": "ff1707564aa1f1b2fcf4ec92d609d4cb26940bc0d4dcf07f5328ad6879e84da3"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/pkg/uucode/ucd/emoji/emoji-zwj-sequences.txt",
+    "sha256Lf": "f61b5213bdf85a57741a9f903cb38d0f39a3d13be6ff4aca3b39857e859a9191"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/pkg/uucode/ucd/extracted/DerivedBidiClass.txt",
+    "sha256Lf": "d9e23222522551348ea1ccfbb4f62efbf98982afb95840f8959c08ed992c5607"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/pkg/uucode/ucd/extracted/DerivedEastAsianWidth.txt",
+    "sha256Lf": "f4c7bc4537a71e12452f6347ecbbc71c31cba21b5190c92be1ae296b0ef32b09"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/pkg/uucode/ucd/extracted/DerivedGeneralCategory.txt",
+    "sha256Lf": "d6b151d2d40ee9b1876d26f417980f45ffae47b6055ccf7203cb31f07a030f94"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/pkg/uucode/ucd/extracted/DerivedJoiningGroup.txt",
+    "sha256Lf": "325be8cd3a32a9cc2b80a1fe67e5c7ade3b58d8280fa9d49134edabed82832a1"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/pkg/uucode/ucd/extracted/DerivedJoiningType.txt",
+    "sha256Lf": "e2408ff2c92b175b0f7bf62c989bbb54c7b077528fe31f8d69b96fa09e7d61ed"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/pkg/uucode/ucd/IndicPositionalCategory.txt",
+    "sha256Lf": "c9ad44d267c317ee0e1ec66cbd4d15033c2964f905d11fc8905915f9a5a9ae52"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/pkg/uucode/ucd/IndicSyllabicCategory.txt",
+    "sha256Lf": "a2b3aacf6b3e7bad4ca351ef985d9543825e20280ff280c25f646d9bc4ce304c"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/pkg/uucode/ucd/Scripts.txt",
+    "sha256Lf": "0071fd81b6aeae25f6e8bce8efec3066a6476a91b49bdb2f52dc76e817862a6a"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/pkg/uucode/ucd/SpecialCasing.txt",
+    "sha256Lf": "8538dea57c184f1ef3783885ea79677b10f6efa06423717157e63712f14d1ad2"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/pkg/uucode/ucd/UnicodeData.txt",
+    "sha256Lf": "0736451de439ae7baf1425136617da495e09ee5afbe6e394374db7009ea08950"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/pkg/wuffs/src/main.zig",
+    "sha256Lf": "beca960f7d7a57e5a0a88d244765307188cc26d08dcaf358a047ec0bc51e2de8"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/apprt/action.zig",
+    "sha256Lf": "78d2bf4df0e4ca899797c2ad512d91d20a94dd2a9df7592066df001189c969a2"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/apprt/embedded.zig",
+    "sha256Lf": "dfe1d974125360bf1b7dd40d7a870e539bb84026afea68d89b1ffff708aa280e"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/apprt/gtk/build/blueprint.zig",
+    "sha256Lf": "b14c34b550f537b78c5e41c97ff5cb57d7183a4d49a8a806e2b14f92d368277e"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/apprt/gtk/build/info.zig",
+    "sha256Lf": "46132c951beb8e4f3156176f1f0a1ae2ccfec1c5e6257dc9da316badc06291a0"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/apprt/gtk/cgroup.zig",
+    "sha256Lf": "2760ec1613a9c7f07a0ccf8324c72cbd689655410e928a7638576a041d2f7ed2"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/apprt/gtk/class/application.zig",
+    "sha256Lf": "622e1b5036209ee1b668c9522c736aa4831e77966ee450a3c29809796504d781"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/apprt/gtk/class/global_shortcuts.zig",
+    "sha256Lf": "94eac7603f1252d521cff97bacc3ab3729b7f1c39794a3af049652fee82b3ffa"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/apprt/gtk/class/inspector_window.zig",
+    "sha256Lf": "7d032e43fce0fa2ecdadd8bd189b10d0ccf7fe8d5c16e863e45f3b80eb0722e2"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/apprt/gtk/class/search_overlay.zig",
+    "sha256Lf": "6bb2c89c8f8165852caca3498c3501e9e5ca6f8f91a3be36d03e9b71e24e73b6"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/apprt/gtk/class/surface.zig",
+    "sha256Lf": "9daa1a8a4b0faf7dbfbf1f0272857b17edec9124a160c98ad37517642ff60c52"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/apprt/gtk/class/window.zig",
+    "sha256Lf": "e76e4123d3c706bae5e314f883fd59df01d5463641ab4608db297d846791708a"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/apprt/gtk/desktop_notifications.zig",
+    "sha256Lf": "f71108808f14a535d41c39edb0ba46bac84fc7d011692de3ad8f0bd0656902c0"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/apprt/gtk/portal.zig",
+    "sha256Lf": "46c27103f249af73191d3232467661a244497f9e9ccba2056043a304c5804ac8"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/apprt/gtk/winproto.zig",
+    "sha256Lf": "fdd5011086de7d307061d8bc9204d9fdc5f8624769cc7071751ee1a35e869326"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/apprt/gtk/winproto/wayland/Hotkeys.zig",
+    "sha256Lf": "db0b3fa3e6e99e23b15366e22b1893a0faa058539770566f845f4659d4d43e0b"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/apprt/gtk/winproto/x11.zig",
+    "sha256Lf": "36b7c173ccb85d43a0dd09596ad333610134bfb70b091a3769aee44e3482b475"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/apprt/ipc.zig",
+    "sha256Lf": "835ac220771df51ff9b76742f12d43e2e0695799fd6f330f4191bce1e7f8b1e2"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/build_config.zig",
+    "sha256Lf": "1886a2749366a7fdd84f6eb7bec9fa14bfc1aeb8df5f962237d99edf0c023e90"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/build/Config.zig",
+    "sha256Lf": "bd708065b399ddbac7afb9f2a8651a619c70e7f77f892c19620eb61d28e970da"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/build/GhosttyBench.zig",
+    "sha256Lf": "3927c4ee7a544621da6645f7f728b8c71f0744953c4bde15417b79dd02f2abfd"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/build/GhosttyDist.zig",
+    "sha256Lf": "eb9a2a1a9faaee9eabacd81c38d799e6bdf87bc5f9f4e60b38cb8632b2f19d97"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/build/GhosttyExe.zig",
+    "sha256Lf": "11bc0a6f29a07631ece8c580c1e34889e4c82245cba01518884a9fd93defebab"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/build/GhosttyFrameData.zig",
+    "sha256Lf": "1656f04f0c3cb4ad71dc6cdae414dbedaa44b65bb788398d3da55c63aed8f1e0"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/build/GhosttyI18n.zig",
+    "sha256Lf": "5acac736e949bf09b35aec497a1e607a703d81a035a74cea50986e0287aef204"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/build/GhosttyLib.zig",
+    "sha256Lf": "d687a2b9826ce2bc549406efbb6f4375a5acf13cbb58d29a3157a00032979df8"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/build/GhosttyLibVt.zig",
+    "sha256Lf": "8af953755352bbfb7fa5be78f3e7c1ce8e1fa8291ae194a39ff5020aa1976e68"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/build/GhosttyPkgConfig.zig",
+    "sha256Lf": "ca490ff6d6dd78448930ed3b94c863bfe7d51ff3e32a2cc5ada3ae6b54014b31"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/build/GhosttyResources.zig",
+    "sha256Lf": "81fb30c89064d9788c36be8e6d49f45e3dd101019387614d6930eda0faaabeb3"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/build/GhosttyXcodebuild.zig",
+    "sha256Lf": "7730b01e1d0268c07a15cc7deec450329d548ed80b945b8a6b5f8c981172150d"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/build/GitVersion.zig",
+    "sha256Lf": "d0e712e81a48d4af3fd9bb399e369a62e66e72e8885df57d5b1815b156bfbbcb"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/build/libghostty-vt.pc.in",
+    "sha256Lf": "b3b5937c11db377d55c92842b5b696da4d059745e2184e6fda75cb9e031dd550"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/build/mdgen/mdgen.zig",
+    "sha256Lf": "c3ee81ad32d7b216c5c513c015de1f067e03206d26d6a365df1b80e8fae94022"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/build/SharedDeps.zig",
+    "sha256Lf": "0d3566bb7cc86282657c0a9f6c3728a52a4a12aee7ff73dc2ca55118e2a65580"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/build/webgen/main_commands.zig",
+    "sha256Lf": "b8bdaf889e1607ae3505668c85ffa00a9ce14447bd2f2d48916f54bde81dfcec"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/build/webgen/main_config.zig",
+    "sha256Lf": "1d116d04c1f638ebad6a71ea1f8cc36e183e1739c54f5626cd3efb55c70a10e3"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/cli/args.zig",
+    "sha256Lf": "4cb7b23e8fe9f47c6273948a3ed44a873155fd77e19caec4f7f9263a17d034dd"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/cli/ghostty.zig",
+    "sha256Lf": "d3a2ae992694b138742bec0cd2749a7c7d71d328ca7123536b40bfb07861d163"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/cli/help.zig",
+    "sha256Lf": "d3fe82aee16e8b86032c53aa09e70ad84c55c19e1da6359e64348fd556aaa61a"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/cli/new_tab.zig",
+    "sha256Lf": "789a755e8976880195080452bd13932fcd59f80409fd15df611f8572f4edb726"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/cli/new_window.zig",
+    "sha256Lf": "1a553fb3bec1f36697972d72b23e929481242181deb3f5a458a7bf61f4456c34"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/cli/show_face.zig",
+    "sha256Lf": "07a820dc05d1652f8ecacfc1005f4a35a3bc11d358ade185a20c1b092766aeac"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/cli/ssh-cache/DiskCache.zig",
+    "sha256Lf": "466bfa7e7600f61c73946a1bb225f001371155b283b8a9c679bfef8e3d674dc8"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/config/c_get.zig",
+    "sha256Lf": "95ce135274108b0b93ed0c3e00ec79dbea9b8c4497040a158f27852a3309ad28"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/config/conditional.zig",
+    "sha256Lf": "aa63bde10faae44f381873259f372dc0d92b82eeb309b489b28f7deb1ee987f2"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/config/Config.zig",
+    "sha256Lf": "06eba9a28d7d2728f71afd29b98323570dd17ddf36bfb0053761f2b0596ad2e2"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/config/formatter_file.zig",
+    "sha256Lf": "882f366c15432e3d4382c6774a61855bf06ad7f2ff8dbfd7a01e6f1efcc5f594"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/config/formatter.zig",
+    "sha256Lf": "9a21407019f12ff8edb1d79c12f7ef599f51b16b8c8b15c38f076312925e99d5"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/config/key.zig",
+    "sha256Lf": "e4fac42701106708066201aae549dc6b4f285f1d0ca9fa732c36651e77bb69e6"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/crash/sentry.zig",
+    "sha256Lf": "e12394d1a6996305f154c7b6a4f0ecd3c657dff33b141edfe0f4dcde3103c395"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/crc32c.zig",
+    "sha256Lf": "5956eb12a7ebd7f735d23b11c72de1d9ae98f212f34c21c83acd0882491a1f54"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/datastruct/comparison.zig",
+    "sha256Lf": "d76cde6bf732929e1584efe7e7b046d9d12ffdcfd4f1909d445c24362848a6bd"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/datastruct/message_data.zig",
+    "sha256Lf": "6e606582ba3b5b40f8efd6ab414e08b1e6099c66c4e471256511b19d4e4f9d54"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/datastruct/segmented_list.zig",
+    "sha256Lf": "f61cf3a88cf3554a39565666f9afd10b1680919a4bfd914e82ebe37a562c4ee5"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/datastruct/split_tree.zig",
+    "sha256Lf": "4f0945ba36f581c222864c3f280cb163c414e9233d2e386a459bd3fd7e57c128"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/extra/bash.zig",
+    "sha256Lf": "51e04b3308ff0b077457d3072fb312ada3e4c29536023e2c09a142c98c557bba"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/extra/fish.zig",
+    "sha256Lf": "02e3f84c5ba69b82af5824b5c84622a663cfd40d4d687ca75cab7cae4c634b8e"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/extra/pkg-config.zig",
+    "sha256Lf": "ec15b3f3662f886aa09b6745f028ea923ddb4776e14656e8feabbedd4db62e6e"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/extra/sublime.zig",
+    "sha256Lf": "c16a54757ab346ea22ccfcadf18eeb79afd891f5f1d7f238458523a5c615712e"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/extra/vim.zig",
+    "sha256Lf": "badf0630bee9f8bc41583d38ee4712efe5f87fbbf59c79bfe95f36c441783f7d"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/extra/zsh.zig",
+    "sha256Lf": "029856fc4bff6ab5ea1e9319d8b4212a14cdb7909a3d8b4271f0bae50a895abc"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/font/discovery.zig",
+    "sha256Lf": "69f7b69d9398ee48926c6c1ed48f5e8dc35170dfa514b8a98c34e3c8a7b9b48b"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/font/face/coretext.zig",
+    "sha256Lf": "2a6fcf777c893facc1addf9ab6bac69137d6b3c24c89a8b6221c0982f81ee5ed"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/font/face/freetype.zig",
+    "sha256Lf": "5d0d125a2d7ef02302d5ceaab918bbeb01a11cbbae66340170ba7e654b15c7a3"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/font/Metrics.zig",
+    "sha256Lf": "204a75dd9609df625358cf4b55ac9fb3c3cd225680a34353e93718d1e84f70c5"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/font/opentype/glyf.zig",
+    "sha256Lf": "06acb493dc2cc0147658de64c41fa2c8f9999c13ddb92d715723172d05751419"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/font/opentype/sfnt.zig",
+    "sha256Lf": "24e9393ba1aa007da4f35fb41241aa7a62e33b2268b581ad18d8708afe56e118"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/font/shaper/feature.zig",
+    "sha256Lf": "85d4e94e1c0083a1495090923603f5870e005c38abd2d2099ea51cb63b07b966"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/font/SharedGridSet.zig",
+    "sha256Lf": "ece8050a8b6d3488fa16b32fb50d5f55e1ffb5ce736d89b8de3793cb4dafc8c7"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/font/sprite/Face.zig",
+    "sha256Lf": "fa03e33944161fd530b29138fb3470c7a2dcf428ce05a634367ce3fda96b0a72"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/global.zig",
+    "sha256Lf": "5ed78f8ddec4ba895592c14d042eaffc4341520b55bb12cfa71ff82b3a0abf99"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/helpgen.zig",
+    "sha256Lf": "30470f61da7b9a2d873286c3a9412d6ef067de3d45bf23391eace65103517306"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/input/Binding.zig",
+    "sha256Lf": "74d283915f9236c09ac4c211d3a30f2e7a497075018980b0015a1ccd1cc84ac3"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/input/command.zig",
+    "sha256Lf": "bda2aa099c2bfafa8294b2d45e35dee4b6f52b45cefc960db1c55760a53afb3a"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/input/helpgen_actions.zig",
+    "sha256Lf": "dc449f502d301a36c217109109eaad788b259a6b973fb695f1cad260d674b3e7"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/input/key.zig",
+    "sha256Lf": "0538a471a5e9ed5c990a8e80cdb3332263343ff93bde5ab998c2481a492a1015"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/input/KeymapDarwin.zig",
+    "sha256Lf": "48d405df8954af511813f25c40580fa940a060fdbf7e59ec652824679e3c5a5a"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/input/mouse.zig",
+    "sha256Lf": "b3804e5ed8ac0f3351133b3e22667f26bb3dc7950f1bf4d3458d29ebf907becd"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/inspector/widgets/page.zig",
+    "sha256Lf": "43891c5d657f830700ed12cb8c35eda44a468dff623436e9c24e324449740161"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/inspector/widgets/pagelist.zig",
+    "sha256Lf": "6c0610fbd4ecc59d02872fa87a7cbadd514d0f22be7ae4bd3ca622d425a03f18"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/inspector/widgets/screen.zig",
+    "sha256Lf": "bca384e36d0ead1ff4948691fe45f9601aa6f9bd0e852ddf1927bc74a693e0b2"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/inspector/widgets/surface.zig",
+    "sha256Lf": "cc649e4dcf96b8a858e23ad511f2649eace227794276de934eb06cdecbfdc688"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/inspector/widgets/terminal.zig",
+    "sha256Lf": "c24c276d2fafab3c1919b778b8ce36a05f60cc521eb0e9fdd7b94828ccb30260"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/inspector/widgets/termio.zig",
+    "sha256Lf": "76bc486fa2311c03431f66086bcdd57312513afd0eeb2b4938ce348d65e3107d"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/lib_vt.zig",
+    "sha256Lf": "1b5ba9f99015770190a1477e36f8dcc3f0fae2fc7b909244f986864d9c616da1"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/lib/c_abi.zig",
+    "sha256Lf": "da9f80838f71ce9f5bb5fb91175eb12a657f88a0728252ce69624611dea2fb7d"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/lib/compat/fmt.zig",
+    "sha256Lf": "b1436353da56218d7ca173c9c572bf04039cdff48c56c18a517014fab38119fd"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/lib/compat/repeat.zig",
+    "sha256Lf": "7e8e14343ad470471f0b53bc2796441d70fd1bb85d873181a01320b30e944b3e"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/lib/compat/testing.zig",
+    "sha256Lf": "5d1cc51b5f2203c2c73abd594856cb61c018b0b8db938c1fd9b8f0dcede4555b"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/lib/enum.zig",
+    "sha256Lf": "d8f5710e77185d912104d469c87016702134c45587df6fa5f97f4c2428e5328a"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/lib/packed.zig",
+    "sha256Lf": "b8f64925db2960641abd8b3eabba6c202af23faa633e59859e89048d1ce33cfb"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/lib/parse_int.zig",
+    "sha256Lf": "55e39a14b66d7179ee5c8711ff9666d33653291f9f61c98421027c911a99ecee"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/lib/struct.zig",
+    "sha256Lf": "cc58ad32a606191cd8dc0693c88b0a96d1dc205b023a93e02a0effcc0c7acfb9"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/lib/TinyIo.zig",
+    "sha256Lf": "ad6fdc294250a5e1fc9403e49350f7fd0e86f5cf1778fb86db5c1830a16174ce"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/lib/tinyio/test.zig",
+    "sha256Lf": "59166ea10e5dcc6b2d2ca90d07d1ee17d37538463dd56fbab36f6982e5c814a7"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/lib/tinyio/windows.zig",
+    "sha256Lf": "495af13fa8ed701beffd3bfa04047e3a02a7ec0e3891f8a7f069460dd4db459d"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/lib/union.zig",
+    "sha256Lf": "13a5acbf67cf559abb10509c7f31a52fdee94ec2fe4fb25639ae692d5401383e"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/main_c.zig",
+    "sha256Lf": "8e2e3a7392befd0d7c18b48fcdc922e5bca18dbe6ee08b3a70d7186cfdb5a17a"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/main_ghostty.zig",
+    "sha256Lf": "ed9cdca065500d45fcc7aff491b0025a037f31b40847f178cf8d5fec33115c69"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/main_wasm.zig",
+    "sha256Lf": "9883573c86c67dac4d4acbd5310eba33dcd0260363aede9627b4debc654df1be"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/os/flatpak.zig",
+    "sha256Lf": "2ba57cea4eec51acb8e8a7e2960ebe4d4926191c14baea8556399cef226485e3"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/os/i18n.zig",
+    "sha256Lf": "9f704009a3e5187f273a5f56ccde3beaa407fbe3bd69c2967027c647a1989e22"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/os/locale.zig",
+    "sha256Lf": "b0a56866f47c3636d9a0035d1f672d9e3e2735aa3e8322867ea99d001a827d2d"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/os/resourcesdir.zig",
+    "sha256Lf": "0a6aa8c14681ed485513a1a6de1fbacb4b48705f90a948c074a5dcf0203f50ab"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/os/string_encoding.zig",
+    "sha256Lf": "63f0c349ff3b7a214f688420326d12c5cef21a4e3f028771818924e1350c9c17"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/pty.zig",
+    "sha256Lf": "56cf183237fc6279405ed92150d9b0f3349aff2bc1c50c79cf69c3fe78d36688"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/quirks.zig",
+    "sha256Lf": "a99af78ec1c51c9970483938dd169f1b06732ecc0c1ee7e562037addb02d9722"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/renderer/metal/Pipeline.zig",
+    "sha256Lf": "190a3c1008d3d6c39843c5e4d22f2aecb7a0ecb579b5ca1cc6f5d05ee0afcd7f"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/renderer/metal/shaders.zig",
+    "sha256Lf": "79c0eacc8788cbdd1d55d405ad29599316465dfd6b73a536da5532ed7322a43b"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/renderer/OpenGL.zig",
+    "sha256Lf": "c8072cae88b1ee5c7deb801e58220a50d02cae29dfa30b7235a2371091691572"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/renderer/opengl/Pipeline.zig",
+    "sha256Lf": "46145036f8936adc796d02aaa1aa89875305ad36fb04c1a0e422413f191951bc"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/renderer/opengl/shaders.zig",
+    "sha256Lf": "39b0f2297c8eaeec804ae359abe8bb4e1d9bec66ea8759fb87eeaec01078081f"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/simd/base64_scalar.zig",
+    "sha256Lf": "b4bf066b311eea949253c42535d8c6a4d8cfa3eeea69b1dcb400e5a7b02e8fd4"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/simd/vt.zig",
+    "sha256Lf": "1cc1ea82698492e606417ab777fec2a710f8e7b5ee25b875e4e0397adb83d1ce"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/Surface.zig",
+    "sha256Lf": "a092d0d68fe5fd5d11008466f320550a17a4cecad391b26d2217c1b3fcbc94d8"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/synthetic/cli.zig",
+    "sha256Lf": "ac3b44388f074e7c95d1a125b62402b9120d8282f476d0e5f92f215e5f557b11"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/terminal/apc.zig",
+    "sha256Lf": "cec5429ad5e50c363f0b7a428c536887291d950de99da1ffb12334b77d428ac6"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/terminal/apc/glyph/request.zig",
+    "sha256Lf": "a9f6d3648bbc880c94303cd30c6a872655dc12f4788926f23c2c8be49f79d6cd"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/terminal/build_options.zig",
+    "sha256Lf": "9229bab9bd69a889042b32c36d079f08e4a5a514d203ae21ee876f6c431632b1"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/terminal/c/build_info.zig",
+    "sha256Lf": "5c41a6976af160c7dc4d8bfecadc1ca544071cfd906041aa56bc371899304b2d"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/terminal/c/color.zig",
+    "sha256Lf": "6484ba4f8b41e9e386d22d55328cb9c99525e8742523c58069a0f4cd9358d254"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/terminal/c/formatter.zig",
+    "sha256Lf": "712860d378346a32cb54f59a37fdb32a2d6fdb13dc3dcc6bd7f7f4204c1024b1"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/terminal/c/io.zig",
+    "sha256Lf": "f0c026b8cb6aa75e330e1aa5c868322b8912efcbd6e57994bfd9eb4545b90baf"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/terminal/c/kitty_graphics.zig",
+    "sha256Lf": "d7e97303c957fb2fb2042bb47093ad1d6abdf366f063be1a5dc64f9d4d568f79"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/terminal/c/paste.zig",
+    "sha256Lf": "5b9228b9064c0484180e53083a2fb270eb4d510b95cbd5342102733b6c2e31aa"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/terminal/c/render.zig",
+    "sha256Lf": "ddc03d01d499b24156a32f89856ad942a81d4d8b10df270b56388f9c767782fc"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/terminal/c/sgr.zig",
+    "sha256Lf": "7268b5d28f588a05b46934ca956f95a04d9617273932e4c09e907da19b61e205"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/terminal/c/style.zig",
+    "sha256Lf": "57e10bba6c676c5a1866bd1b29b019c57c184e3df1543ad09618cd9fba743525"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/terminal/c/sys.zig",
+    "sha256Lf": "f15aaab4ccdf8d5de3755b247eb56fe6a7e489faffce22bf541e0fcf6d564aa2"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/terminal/c/terminal.zig",
+    "sha256Lf": "197e5b46480174dfb7aeba88a38515d6e8679116f54d74988eaf7bda5b6f3bfa"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/terminal/c/types.zig",
+    "sha256Lf": "63a28d313af4818cf4b33bbaab4c153f2b5ada8770b8becf50cb3854c7b3d38d"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/terminal/charsets.zig",
+    "sha256Lf": "f2955b8740dbd8ebbbf7607279eba0c32061c0320af303411b6119a0622f1ea1"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/terminal/color.zig",
+    "sha256Lf": "8849355d6b84f22cf8341ec3576fe188a5558fccb038877a64eb8e5c0316c812"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/terminal/compress/lz4_differential.zig",
+    "sha256Lf": "566711b0b28d3f357f585dc1bd8af84bcffb7c263f1715e975e3729f55228ef4"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/terminal/device_status.zig",
+    "sha256Lf": "156e982bf0fc0ce182b99abc154671fb3d2399b1d7dafda5623a9039f7bf3f38"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/terminal/formatter.zig",
+    "sha256Lf": "e9a5fb0386a339efe1295002f93206821a01c3560368fdb4868872e5805bf354"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/terminal/fraction.zig",
+    "sha256Lf": "8aafe491e21301d93db2692a99f32b45650e53dc483b753d8756bb30b0ddacb9"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/terminal/kitty/clipboard_command.zig",
+    "sha256Lf": "8bf2c1b9f02aa2e9b7b5aee7ed4153c21d23ff081f777e2d4e3be32317d4b9a5"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/terminal/kitty/clipboard_response.zig",
+    "sha256Lf": "ed69c4c3da763c38763c43cd1028d1265299a20e8479da0e2d935ad72ad3d5bb"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/terminal/kitty/color.zig",
+    "sha256Lf": "5fd590696a665e3359bf90a72c9422bf077d18160543e287906dffa5f30085b2"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/terminal/kitty/dnd_response.zig",
+    "sha256Lf": "f6790b4947236aa044cb17492c9fd0c041660c6453c674865f8ffe5f46a9b1f0"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/terminal/kitty/dnd_test.zig",
+    "sha256Lf": "7caa49f43c9f5fe8dbdd3263f6d3254b0a379cd3c384e2945b1fe5129c163949"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/terminal/kitty/graphics_image.zig",
+    "sha256Lf": "21d3c46f8e00da47e0e55ee23d7fd25a1ffedcd2436696c12a34b130d5f50510"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/terminal/kitty/graphics_pixel.zig",
+    "sha256Lf": "4e0ae6f249962178866cc9e1f4d45c0e44406ecff41a27ce5401a28548dc5835"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/terminal/kitty/graphics_storage.zig",
+    "sha256Lf": "d1136f9e536063e98324b26c71a9ad0a1ee4adc705b642f147782728c9f6fdf9"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/terminal/modes.zig",
+    "sha256Lf": "7fa090660462ff5f7547cc972e986766dd7ec763bf8347e9f9e19573b4f1b1b0"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/terminal/osc/parsers/change_window_title.zig",
+    "sha256Lf": "f4cb1dcdb1bdb13d8e984bd04b905e0d9d1406c7fcb1211cf7457ee990fb4419"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/terminal/osc/parsers/color.zig",
+    "sha256Lf": "1970c5b3b13dee17f42e66183a17e0be32b26b1d918d59079abf6b1fa85089ba"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/terminal/osc/parsers/context_signal.zig",
+    "sha256Lf": "c05460d1aab8489c1d4330c0f090ee50bbaf5d0d4796bf4de12b21a20682a730"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/terminal/osc/parsers/iterm2.zig",
+    "sha256Lf": "9f598312ab45c53392fb10dc85b86e9afe5381d33b40ed006293a886fd990914"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/terminal/osc/parsers/kitty_desktop_notification.zig",
+    "sha256Lf": "b9b0229cb07f082a07904d115e20275e1444262e2509e872a8108eaad1596b54"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/terminal/osc/parsers/kitty_text_sizing.zig",
+    "sha256Lf": "0adde66097073565ecf71a9f18904a02e9ff973907833839e42def07585a510a"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/terminal/osc/parsers/program_status.zig",
+    "sha256Lf": "a801dfdea07f869e7178541f7213306abff40667bcb6b087b09d075f9620beb8"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/terminal/osc/parsers/unknown.zig",
+    "sha256Lf": "192deb7b25410b1f053173e0f8215b9014a62d1fd2599efff323bcd696fa14e2"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/terminal/page.zig",
+    "sha256Lf": "0e40c23eb524a9d70a04132f2fa889c6ce162e8e9974565663bb60642df4c276"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/terminal/PageList.zig",
+    "sha256Lf": "e5f71995575a1a4f55905cb07842e5d90492b755adc43944b67569a9b385cbc3"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/terminal/parse_table.zig",
+    "sha256Lf": "b771e703e31ba6fd76f064fc416cdc8ac8c52722232afab994cd2d12c79030ed"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/terminal/Parser.zig",
+    "sha256Lf": "d97fb95422a3b9997d5c05ca2b2a8bed45ae1c545900d883690531849c21dce0"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/terminal/Screen.zig",
+    "sha256Lf": "73718054889364a3eb83e7996e3e1d580dc7607ea9b654fd41f64fc78c9b0e8b"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/terminal/search/sliding_window.zig",
+    "sha256Lf": "111904fc9c3ce61b3ce5dfec50307c5f62c7c38dd0b2157370e0c258bd5e8754"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/terminal/sgr.zig",
+    "sha256Lf": "89b46eb95af7bdce41fc0d6d297294667aa3f3101dc130161710c8583bcf85ae"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/terminal/snapshot/fixture.zig",
+    "sha256Lf": "002204bccceb692aec0b6fea4c56bd8c4ccf6330eb039364c2abe3ff603293a6"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/terminal/snapshot/record.zig",
+    "sha256Lf": "3428cc5a2be2b735f9eb33f208cd0fe4d62dc60d4bcabc13d6ea7edb4ce55657"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/terminal/snapshot/screen.zig",
+    "sha256Lf": "18169713f043fca170d815a17cf0147d096bef965a741fb454fe8b5e4804ceed"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/terminal/snapshot/snapshot.zig",
+    "sha256Lf": "ec22d21f04e93db0c7d1234cd1d792a0c336450e343dba52dc1fd9203b0358b5"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/terminal/snapshot/style.zig",
+    "sha256Lf": "85d4af8bd07078c7ebd18201502e08b8add0d0bf836498fba44343b0eb3aedbe"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/terminal/stream_continuation.zig",
+    "sha256Lf": "a4daa10c492a50acbc169bbe4cfaf57096fc24a3f5eadce53f5c3044f5dcd16d"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/terminal/stream_terminal.zig",
+    "sha256Lf": "6605fee777c179e40b957c10fc2fc8e6d10887efb3391cb7ab4ddbb9379eb3ab"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/terminal/stream.zig",
+    "sha256Lf": "5fa38caedb27a0d99bab5a547f45cf6a18cabb5f9510a70bc4a4aa05cae2d3ac"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/terminal/style.zig",
+    "sha256Lf": "2b31091f1736af0bab4de4af0a799747039a0a6c12c0e08088de4a25d5255097"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/terminal/Terminal.zig",
+    "sha256Lf": "35f07813bef9d41ac9669b24f70f8f7632fcc3d0fbca60f106e7a5bf0d0179a4"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/terminal/tmux/control.zig",
+    "sha256Lf": "f815eb7d12d71df02fe3839090c7f5f3948f908e213bfa41e990c7720bebaff9"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/terminal/tmux/output.zig",
+    "sha256Lf": "1e3ffca662b007b1f1328a467e8eb919d76f148626bb1c3ccb76b95c4f8a2eeb"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/terminal/tmux/viewer.zig",
+    "sha256Lf": "6ae5e27e01215e17189aed1d254fe5a3d52019004dc7199142d2c72f3872cc19"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/termio/shell_integration.zig",
+    "sha256Lf": "3eb8611fa0c826ec9f716d1b61235081798802ef2d65f2d1a297f35831044f75"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/termio/stream_handler.zig",
+    "sha256Lf": "da360c80f6e4aaf4caed08d9c839990a6815cd785266bbfa7e55712ca1bebed3"
+  },
+  {
+    "project": "herdr-app",
+    "path": "vendor/ghostty/src/unicode/grapheme.zig",
+    "sha256Lf": "9680ddce30e19b9f3932fe1225c079ce37f4ed5d14469fa980faed217e6bc304"
+  },
+  {
+    "project": "herdr-core",
+    "path": ".cargo/config.toml",
+    "sha256Lf": "573b43692406b60bdbf4bca86a0bf0fd42c69ae99ff3a8eac0171fb69f94c0f5"
+  },
+  {
+    "project": "herdr-core",
+    "path": "Cargo.lock",
+    "sha256Lf": "4608b5e27f440eb3f7c3e53e12ec45a1aeb4cdbccdb251e6333dcd18f617afe0"
+  },
+  {
+    "project": "herdr-core",
+    "path": "crates/ghostty-vt/build.rs",
+    "sha256Lf": "37ce75991f91574ce2f4002d1088a22dc592f66d7c96940ed098938daae9dbf7"
+  },
+  {
+    "project": "herdr-core",
+    "path": "crates/herdr-core/src/platform/windows.rs",
+    "sha256Lf": "6bc61211db958ca313eebe50aca9c1a243a4c8c4f08a10bbea071a3941c33da2"
+  },
+  {
+    "project": "herdr-core",
+    "path": "crates/herdr-core/src/remote/tests.rs",
+    "sha256Lf": "573585a3f08b50492481837304cc6dc68ed7dad8702434f8015a6a3ec613e5b7"
+  },
+  {
+    "project": "herdr-core",
+    "path": "crates/herdr-core/tests/m0.rs",
+    "sha256Lf": "22fd12858c8ce611f7569734d048d0eeb0dd709d862d29050d4a0db899a3908f"
+  },
+  {
+    "project": "herdr-core",
+    "path": "crates/herdr-core/tests/windows.rs",
+    "sha256Lf": "a4590aaef81e610ef6585954246f10363eb9b6bddd8ed27812334572f562ec67"
+  },
+  {
+    "project": "herdr-core",
+    "path": "crates/herdr-core/THIRD-PARTY-NOTICES",
+    "sha256Lf": "38206dd1002861477633c4c4bb8846814782716fd7762fecc00d31b3201fcce7"
+  },
+  {
+    "project": "herdr-core",
+    "path": "distribution/notices/README.md",
+    "sha256Lf": "686a36e31b9ac38e0a948293191b4e016aebe38997fb31b63216e8f89f81d904"
+  },
+  {
+    "project": "herdr-core",
+    "path": "distribution/notices/rust.txt",
+    "sha256Lf": "8f58a0d0a7b22793025928d251b3f7f7eb10301a013cbaef174955e2518e5d08"
+  },
+  {
+    "project": "herdr-core",
+    "path": "scripts/fetch-conpty.ps1",
+    "sha256Lf": "d8c6c131eed093348a9e068314594dd47edb2e7828b5a880e987b8e0dbb655c7"
+  },
+  {
+    "project": "herdr-core",
+    "path": "scripts/notices",
+    "sha256Lf": "e808454f7ad04b7de0f115e2d4470a0fd3e65d2e78380703a622e8bbeb9ecfc7"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/build.zig",
+    "sha256Lf": "418a5a97fc97245ba9719fd6dc61a3b8b592dd04604ffcf217e8150690724637"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/build.zig.zon",
+    "sha256Lf": "39b19bd270e6de1363071d5b5b6dea79294c655c34f45967c6f7fafbd40f71f3"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/dist/linux/app.desktop.in",
+    "sha256Lf": "8ffe81260ad4ef6ea901941eb86d2c9798bdf19dff012a83c1d08c25dbe40cda"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/dist/linux/dbus.service.flatpak.in",
+    "sha256Lf": "5cafa127e55f6f413bd044918a978dc12dcd73a1a370e461963e13b7ee678bc5"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/dist/linux/dbus.service.in",
+    "sha256Lf": "7f99f0b200637a4bfb95490c30a68bf5b5fb79c932f6af445a3150449694f483"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/dist/linux/systemd.service.in",
+    "sha256Lf": "f2a9a9a8584302918dfa37ad1e1f6234a8edcf15e4b2e6c96d29e0261bb9ce46"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/pkg/afl++/build.zig",
+    "sha256Lf": "b4ccceb13dbb2c6c6a7f6489e3c745bc625b549187cfe394e3438b9a5eb2c2a4"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/pkg/apple-sdk/build.zig",
+    "sha256Lf": "12942001a61e2b537e9082bf695e96d6e83914079ee0faecd86984c39de67160"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/pkg/fontconfig/common.zig",
+    "sha256Lf": "62f89be0c816a2dba33ab4f844ce33547598406c6a302d502788eeb0da304393"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/pkg/libxml2/build.zig",
+    "sha256Lf": "6b88c93d21de3136ddc5c5c73b35a76db36e3b7cd3568fdac92a0251953c7287"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/pkg/macos/os/signpost.zig",
+    "sha256Lf": "332a007d9706c349ba2b04e70a1c9df22f04591d5eb1a46eb8e453272c7e1175"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/pkg/oniguruma/build.zig",
+    "sha256Lf": "8cfc67c2391201373947a75cf0e5b06edee3067bf7cc1dca231924ff9bb4cd9c"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/pkg/translate-c/build.zig",
+    "sha256Lf": "8e6a4f66b5926bc12a43b8d6e153a33900698887917a32d4b8e142c0f524b366"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/pkg/translate-c/build.zig.zon",
+    "sha256Lf": "0191fdbfe5c075c789b6cce87250b1e590b6a85a1a538e07473b892caeaaf4b6"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/pkg/uucode/build.zig",
+    "sha256Lf": "1bd861c6c479d77e0ddac31f77fe52c9b4375b4a1bef57fc3fafffc63e540ec9"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/pkg/uucode/build.zig.zon",
+    "sha256Lf": "cd89284dfeb723b88c8cc4c900c04f37bf0247e4f5acf4d6dd18350be7dcee4e"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/pkg/uucode/LICENSE.md",
+    "sha256Lf": "312e901e142be2477b4ca859e9311f9e3f80d33372991759b7921c1893605f33"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/pkg/uucode/README.md",
+    "sha256Lf": "4b5d0431cb8b467947c7481513fa81a167b76a7b00f27f887cfb18e5eb7bb031"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/pkg/uucode/src/ascii.zig",
+    "sha256Lf": "627ecd109cd15f9e3c7214c30542dc2a5f380b443cf70959ea99d97f2776da14"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/pkg/uucode/src/code_point.zig",
+    "sha256Lf": "cd9a58a7aa3472dea938d917e6fe6a465d2856d9d5e49f179c1d3ca2a046e3bf"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/pkg/uucode/src/components.zig",
+    "sha256Lf": "1bc4de885dea776dc4581ca01930805dc7ee72cddc2cec45a8f23410199befe3"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/pkg/uucode/src/config.zig",
+    "sha256Lf": "c8b67f5586c381718c873eda9981c877058ed10f7fec7e7064fa5cf55b1c9afb"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/pkg/uucode/src/fields.zig",
+    "sha256Lf": "dc0323076ff563000da500fedb135d76b042d9a8edc86062ffc0dfb5f96567bb"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/pkg/uucode/src/generate.zig",
+    "sha256Lf": "77bdde88f1615ee91bfbaf538ad7849e1ea1dbabb702e633aa3fa6ea9880ae84"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/pkg/uucode/src/get.zig",
+    "sha256Lf": "e8475c31b84040cca38f30ea35eae53c93d1580c76e2b8ef1b6e7cd5fb5a10ca"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/pkg/uucode/src/grapheme.zig",
+    "sha256Lf": "12c61c7408b0838953ca0998b17d5a6b2b14f8bf3f5d393e48a74b92a5b205f2"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/pkg/uucode/src/multi_slice.zig",
+    "sha256Lf": "d4e94e4d4a9aefa58bf139775e7cfa416a68d0e03477a6a272dc80ce772b60e7"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/pkg/uucode/src/quirks.zig",
+    "sha256Lf": "95698ac29969985acd5a54435750096641d014ea44d1f183973a37b977f8f0d5"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/pkg/uucode/src/root.zig",
+    "sha256Lf": "ff1e17c6990d4deb61472ba3040d1c90ae35ccde5f107221ab555e651270c232"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/pkg/uucode/src/storage.zig",
+    "sha256Lf": "02233ed2b99593a29bf0524d7ce6f8e5093e87bb55c8bb004d01f7f452463e93"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/pkg/uucode/src/test/build_config.zig",
+    "sha256Lf": "ebc383434c8330b8d7cac2db1e1758ac4e32d7788412878fd5e5231275282c92"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/pkg/uucode/src/types.zig",
+    "sha256Lf": "85d995d96638d234358bbf0d5763c9ade0eb2c3c1f388afc4482c154bed60efa"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/pkg/uucode/src/ucd_inputs.zig",
+    "sha256Lf": "41594ae81a0aec86a7d8d72ef35c7e01923df701c3e4bc4a2fcfa31c7852694e"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/pkg/uucode/src/utf8.zig",
+    "sha256Lf": "62b3ed0d0945f6243d94d41411b37f67472bc64e4b8477825dd8b90ee971b622"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/pkg/uucode/ucd/.gitignore",
+    "sha256Lf": "43211265ae37eef18327400c5e4c46950b909a7fe316f169eceb11c2866f2a42"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/pkg/uucode/ucd/auxiliary/GraphemeBreakProperty.txt",
+    "sha256Lf": "0839dcb79e4ac639ecd538b1abf7c9d22e3f9dd265b7e182d33627aa4d75b45a"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/pkg/uucode/ucd/auxiliary/GraphemeBreakTest.txt",
+    "sha256Lf": "b0cf047ee94485bbdc846de2b902f5f8a815f6b674f9d04223cddadd91c9df31"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/pkg/uucode/ucd/BidiBrackets.txt",
+    "sha256Lf": "4b3b62e4a14b84ee752808c810c602534921c09a4a1bf78cfbee566d66c125b3"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/pkg/uucode/ucd/BidiMirroring.txt",
+    "sha256Lf": "cd54810ebf52f0e61a730c8b9cb25975de6c85f6d788a559b416afd548923fd6"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/pkg/uucode/ucd/Blocks.txt",
+    "sha256Lf": "a58f8d322f3c5e254f9f97b1cbf76a454a7e02de6ac35619a5e4f27aaabfd553"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/pkg/uucode/ucd/CaseFolding.txt",
+    "sha256Lf": "a004797658a457bec4dc11683e39f69249ea3b595b752dbea6721c4c9f587b0d"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/pkg/uucode/ucd/CompositionExclusions.txt",
+    "sha256Lf": "c759b100e9ae8960ae6b50fc5765950a7581fd9f30d4ef95f68f25a6d97e818e"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/pkg/uucode/ucd/DerivedCoreProperties.txt",
+    "sha256Lf": "09c928886a178fcafd93c29e4bd59073a058e5a100b716d425cb563ab50f68c9"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/pkg/uucode/ucd/emoji/emoji-data.txt",
+    "sha256Lf": "80d00f8e616a0ef27fd6b8de3b758c06383b5d917e2977709578e68baf733bf1"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/pkg/uucode/ucd/emoji/emoji-variation-sequences.txt",
+    "sha256Lf": "ff1707564aa1f1b2fcf4ec92d609d4cb26940bc0d4dcf07f5328ad6879e84da3"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/pkg/uucode/ucd/emoji/emoji-zwj-sequences.txt",
+    "sha256Lf": "f61b5213bdf85a57741a9f903cb38d0f39a3d13be6ff4aca3b39857e859a9191"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/pkg/uucode/ucd/extracted/DerivedBidiClass.txt",
+    "sha256Lf": "d9e23222522551348ea1ccfbb4f62efbf98982afb95840f8959c08ed992c5607"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/pkg/uucode/ucd/extracted/DerivedEastAsianWidth.txt",
+    "sha256Lf": "f4c7bc4537a71e12452f6347ecbbc71c31cba21b5190c92be1ae296b0ef32b09"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/pkg/uucode/ucd/extracted/DerivedGeneralCategory.txt",
+    "sha256Lf": "d6b151d2d40ee9b1876d26f417980f45ffae47b6055ccf7203cb31f07a030f94"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/pkg/uucode/ucd/extracted/DerivedJoiningGroup.txt",
+    "sha256Lf": "325be8cd3a32a9cc2b80a1fe67e5c7ade3b58d8280fa9d49134edabed82832a1"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/pkg/uucode/ucd/extracted/DerivedJoiningType.txt",
+    "sha256Lf": "e2408ff2c92b175b0f7bf62c989bbb54c7b077528fe31f8d69b96fa09e7d61ed"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/pkg/uucode/ucd/IndicPositionalCategory.txt",
+    "sha256Lf": "c9ad44d267c317ee0e1ec66cbd4d15033c2964f905d11fc8905915f9a5a9ae52"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/pkg/uucode/ucd/IndicSyllabicCategory.txt",
+    "sha256Lf": "a2b3aacf6b3e7bad4ca351ef985d9543825e20280ff280c25f646d9bc4ce304c"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/pkg/uucode/ucd/Scripts.txt",
+    "sha256Lf": "0071fd81b6aeae25f6e8bce8efec3066a6476a91b49bdb2f52dc76e817862a6a"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/pkg/uucode/ucd/SpecialCasing.txt",
+    "sha256Lf": "8538dea57c184f1ef3783885ea79677b10f6efa06423717157e63712f14d1ad2"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/pkg/uucode/ucd/UnicodeData.txt",
+    "sha256Lf": "0736451de439ae7baf1425136617da495e09ee5afbe6e394374db7009ea08950"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/pkg/wuffs/src/main.zig",
+    "sha256Lf": "beca960f7d7a57e5a0a88d244765307188cc26d08dcaf358a047ec0bc51e2de8"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/apprt/action.zig",
+    "sha256Lf": "7073e34793a6b1ad57431eee3364b42c701b02399d3ead4ce2671de767eb3205"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/apprt/embedded.zig",
+    "sha256Lf": "e1cb7744ff54e61f29cd96d794bea112d7e0e4635148e04a49dea53ab0cd6218"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/apprt/gtk/build/blueprint.zig",
+    "sha256Lf": "b14c34b550f537b78c5e41c97ff5cb57d7183a4d49a8a806e2b14f92d368277e"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/apprt/gtk/build/info.zig",
+    "sha256Lf": "46132c951beb8e4f3156176f1f0a1ae2ccfec1c5e6257dc9da316badc06291a0"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/apprt/gtk/cgroup.zig",
+    "sha256Lf": "2760ec1613a9c7f07a0ccf8324c72cbd689655410e928a7638576a041d2f7ed2"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/apprt/gtk/class/application.zig",
+    "sha256Lf": "ee066d1fdee2e150c5a37e82c710601b59ee974799d2027386051a0139093c0c"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/apprt/gtk/class/global_shortcuts.zig",
+    "sha256Lf": "94eac7603f1252d521cff97bacc3ab3729b7f1c39794a3af049652fee82b3ffa"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/apprt/gtk/class/inspector_window.zig",
+    "sha256Lf": "7d032e43fce0fa2ecdadd8bd189b10d0ccf7fe8d5c16e863e45f3b80eb0722e2"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/apprt/gtk/class/search_overlay.zig",
+    "sha256Lf": "6bb2c89c8f8165852caca3498c3501e9e5ca6f8f91a3be36d03e9b71e24e73b6"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/apprt/gtk/class/surface.zig",
+    "sha256Lf": "9d087d541d7abf35cd35933a5c115a0243917f495639ae5a3acc06a520dd2ee4"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/apprt/gtk/class/window.zig",
+    "sha256Lf": "a4fe38dd20134f1d1097001056ad80a74094070eaf89081f46c5a1ea38add0ef"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/apprt/gtk/portal.zig",
+    "sha256Lf": "46c27103f249af73191d3232467661a244497f9e9ccba2056043a304c5804ac8"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/apprt/gtk/winproto.zig",
+    "sha256Lf": "fdd5011086de7d307061d8bc9204d9fdc5f8624769cc7071751ee1a35e869326"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/apprt/gtk/winproto/wayland/Hotkeys.zig",
+    "sha256Lf": "db0b3fa3e6e99e23b15366e22b1893a0faa058539770566f845f4659d4d43e0b"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/apprt/gtk/winproto/x11.zig",
+    "sha256Lf": "36b7c173ccb85d43a0dd09596ad333610134bfb70b091a3769aee44e3482b475"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/apprt/ipc.zig",
+    "sha256Lf": "835ac220771df51ff9b76742f12d43e2e0695799fd6f330f4191bce1e7f8b1e2"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/build_config.zig",
+    "sha256Lf": "1886a2749366a7fdd84f6eb7bec9fa14bfc1aeb8df5f962237d99edf0c023e90"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/build/Config.zig",
+    "sha256Lf": "bd708065b399ddbac7afb9f2a8651a619c70e7f77f892c19620eb61d28e970da"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/build/GhosttyBench.zig",
+    "sha256Lf": "3927c4ee7a544621da6645f7f728b8c71f0744953c4bde15417b79dd02f2abfd"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/build/GhosttyDist.zig",
+    "sha256Lf": "eb9a2a1a9faaee9eabacd81c38d799e6bdf87bc5f9f4e60b38cb8632b2f19d97"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/build/GhosttyExe.zig",
+    "sha256Lf": "11bc0a6f29a07631ece8c580c1e34889e4c82245cba01518884a9fd93defebab"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/build/GhosttyFrameData.zig",
+    "sha256Lf": "1656f04f0c3cb4ad71dc6cdae414dbedaa44b65bb788398d3da55c63aed8f1e0"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/build/GhosttyI18n.zig",
+    "sha256Lf": "5acac736e949bf09b35aec497a1e607a703d81a035a74cea50986e0287aef204"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/build/GhosttyLib.zig",
+    "sha256Lf": "d687a2b9826ce2bc549406efbb6f4375a5acf13cbb58d29a3157a00032979df8"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/build/GhosttyLibVt.zig",
+    "sha256Lf": "8af953755352bbfb7fa5be78f3e7c1ce8e1fa8291ae194a39ff5020aa1976e68"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/build/GhosttyPkgConfig.zig",
+    "sha256Lf": "ca490ff6d6dd78448930ed3b94c863bfe7d51ff3e32a2cc5ada3ae6b54014b31"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/build/GhosttyResources.zig",
+    "sha256Lf": "81fb30c89064d9788c36be8e6d49f45e3dd101019387614d6930eda0faaabeb3"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/build/GhosttyXcodebuild.zig",
+    "sha256Lf": "7730b01e1d0268c07a15cc7deec450329d548ed80b945b8a6b5f8c981172150d"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/build/GitVersion.zig",
+    "sha256Lf": "d0e712e81a48d4af3fd9bb399e369a62e66e72e8885df57d5b1815b156bfbbcb"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/build/libghostty-vt.pc.in",
+    "sha256Lf": "b3b5937c11db377d55c92842b5b696da4d059745e2184e6fda75cb9e031dd550"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/build/mdgen/mdgen.zig",
+    "sha256Lf": "c3ee81ad32d7b216c5c513c015de1f067e03206d26d6a365df1b80e8fae94022"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/build/SharedDeps.zig",
+    "sha256Lf": "dd5f7bd9664ea610691f531a7f8d52e6891943216e2b578201d723d48448e021"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/build/webgen/main_commands.zig",
+    "sha256Lf": "b8bdaf889e1607ae3505668c85ffa00a9ce14447bd2f2d48916f54bde81dfcec"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/build/webgen/main_config.zig",
+    "sha256Lf": "1d116d04c1f638ebad6a71ea1f8cc36e183e1739c54f5626cd3efb55c70a10e3"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/cli/args.zig",
+    "sha256Lf": "4cb7b23e8fe9f47c6273948a3ed44a873155fd77e19caec4f7f9263a17d034dd"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/cli/ghostty.zig",
+    "sha256Lf": "d3a2ae992694b138742bec0cd2749a7c7d71d328ca7123536b40bfb07861d163"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/cli/help.zig",
+    "sha256Lf": "d3fe82aee16e8b86032c53aa09e70ad84c55c19e1da6359e64348fd556aaa61a"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/cli/new_tab.zig",
+    "sha256Lf": "789a755e8976880195080452bd13932fcd59f80409fd15df611f8572f4edb726"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/cli/new_window.zig",
+    "sha256Lf": "1a553fb3bec1f36697972d72b23e929481242181deb3f5a458a7bf61f4456c34"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/cli/show_face.zig",
+    "sha256Lf": "07a820dc05d1652f8ecacfc1005f4a35a3bc11d358ade185a20c1b092766aeac"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/cli/ssh-cache/DiskCache.zig",
+    "sha256Lf": "466bfa7e7600f61c73946a1bb225f001371155b283b8a9c679bfef8e3d674dc8"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/config/c_get.zig",
+    "sha256Lf": "95ce135274108b0b93ed0c3e00ec79dbea9b8c4497040a158f27852a3309ad28"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/config/conditional.zig",
+    "sha256Lf": "aa63bde10faae44f381873259f372dc0d92b82eeb309b489b28f7deb1ee987f2"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/config/Config.zig",
+    "sha256Lf": "b976b51bf0ba8276b65d3d4dfb45a1d6a252c773cd7e7e8c01993dcdaf01d83a"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/config/formatter_file.zig",
+    "sha256Lf": "882f366c15432e3d4382c6774a61855bf06ad7f2ff8dbfd7a01e6f1efcc5f594"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/config/formatter.zig",
+    "sha256Lf": "9a21407019f12ff8edb1d79c12f7ef599f51b16b8c8b15c38f076312925e99d5"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/config/key.zig",
+    "sha256Lf": "e4fac42701106708066201aae549dc6b4f285f1d0ca9fa732c36651e77bb69e6"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/crash/sentry.zig",
+    "sha256Lf": "e12394d1a6996305f154c7b6a4f0ecd3c657dff33b141edfe0f4dcde3103c395"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/crc32c.zig",
+    "sha256Lf": "5956eb12a7ebd7f735d23b11c72de1d9ae98f212f34c21c83acd0882491a1f54"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/datastruct/comparison.zig",
+    "sha256Lf": "d76cde6bf732929e1584efe7e7b046d9d12ffdcfd4f1909d445c24362848a6bd"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/datastruct/message_data.zig",
+    "sha256Lf": "6e606582ba3b5b40f8efd6ab414e08b1e6099c66c4e471256511b19d4e4f9d54"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/datastruct/segmented_list.zig",
+    "sha256Lf": "f61cf3a88cf3554a39565666f9afd10b1680919a4bfd914e82ebe37a562c4ee5"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/datastruct/split_tree.zig",
+    "sha256Lf": "4f0945ba36f581c222864c3f280cb163c414e9233d2e386a459bd3fd7e57c128"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/extra/bash.zig",
+    "sha256Lf": "51e04b3308ff0b077457d3072fb312ada3e4c29536023e2c09a142c98c557bba"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/extra/fish.zig",
+    "sha256Lf": "02e3f84c5ba69b82af5824b5c84622a663cfd40d4d687ca75cab7cae4c634b8e"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/extra/pkg-config.zig",
+    "sha256Lf": "ec15b3f3662f886aa09b6745f028ea923ddb4776e14656e8feabbedd4db62e6e"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/extra/sublime.zig",
+    "sha256Lf": "c16a54757ab346ea22ccfcadf18eeb79afd891f5f1d7f238458523a5c615712e"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/extra/vim.zig",
+    "sha256Lf": "badf0630bee9f8bc41583d38ee4712efe5f87fbbf59c79bfe95f36c441783f7d"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/extra/zsh.zig",
+    "sha256Lf": "029856fc4bff6ab5ea1e9319d8b4212a14cdb7909a3d8b4271f0bae50a895abc"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/font/discovery.zig",
+    "sha256Lf": "69f7b69d9398ee48926c6c1ed48f5e8dc35170dfa514b8a98c34e3c8a7b9b48b"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/font/face/coretext.zig",
+    "sha256Lf": "2a6fcf777c893facc1addf9ab6bac69137d6b3c24c89a8b6221c0982f81ee5ed"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/font/face/freetype.zig",
+    "sha256Lf": "5d0d125a2d7ef02302d5ceaab918bbeb01a11cbbae66340170ba7e654b15c7a3"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/font/Metrics.zig",
+    "sha256Lf": "204a75dd9609df625358cf4b55ac9fb3c3cd225680a34353e93718d1e84f70c5"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/font/opentype/glyf.zig",
+    "sha256Lf": "06acb493dc2cc0147658de64c41fa2c8f9999c13ddb92d715723172d05751419"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/font/opentype/sfnt.zig",
+    "sha256Lf": "24e9393ba1aa007da4f35fb41241aa7a62e33b2268b581ad18d8708afe56e118"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/font/shaper/feature.zig",
+    "sha256Lf": "85d4e94e1c0083a1495090923603f5870e005c38abd2d2099ea51cb63b07b966"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/font/SharedGridSet.zig",
+    "sha256Lf": "ece8050a8b6d3488fa16b32fb50d5f55e1ffb5ce736d89b8de3793cb4dafc8c7"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/font/sprite/Face.zig",
+    "sha256Lf": "fa03e33944161fd530b29138fb3470c7a2dcf428ce05a634367ce3fda96b0a72"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/global.zig",
+    "sha256Lf": "5ed78f8ddec4ba895592c14d042eaffc4341520b55bb12cfa71ff82b3a0abf99"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/helpgen.zig",
+    "sha256Lf": "30470f61da7b9a2d873286c3a9412d6ef067de3d45bf23391eace65103517306"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/input/Binding.zig",
+    "sha256Lf": "74d283915f9236c09ac4c211d3a30f2e7a497075018980b0015a1ccd1cc84ac3"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/input/command.zig",
+    "sha256Lf": "bda2aa099c2bfafa8294b2d45e35dee4b6f52b45cefc960db1c55760a53afb3a"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/input/helpgen_actions.zig",
+    "sha256Lf": "dc449f502d301a36c217109109eaad788b259a6b973fb695f1cad260d674b3e7"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/input/key.zig",
+    "sha256Lf": "0538a471a5e9ed5c990a8e80cdb3332263343ff93bde5ab998c2481a492a1015"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/input/KeymapDarwin.zig",
+    "sha256Lf": "48d405df8954af511813f25c40580fa940a060fdbf7e59ec652824679e3c5a5a"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/input/mouse.zig",
+    "sha256Lf": "b3804e5ed8ac0f3351133b3e22667f26bb3dc7950f1bf4d3458d29ebf907becd"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/inspector/widgets/page.zig",
+    "sha256Lf": "43891c5d657f830700ed12cb8c35eda44a468dff623436e9c24e324449740161"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/inspector/widgets/pagelist.zig",
+    "sha256Lf": "6c0610fbd4ecc59d02872fa87a7cbadd514d0f22be7ae4bd3ca622d425a03f18"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/inspector/widgets/screen.zig",
+    "sha256Lf": "bca384e36d0ead1ff4948691fe45f9601aa6f9bd0e852ddf1927bc74a693e0b2"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/inspector/widgets/surface.zig",
+    "sha256Lf": "cc649e4dcf96b8a858e23ad511f2649eace227794276de934eb06cdecbfdc688"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/inspector/widgets/terminal.zig",
+    "sha256Lf": "c24c276d2fafab3c1919b778b8ce36a05f60cc521eb0e9fdd7b94828ccb30260"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/inspector/widgets/termio.zig",
+    "sha256Lf": "76bc486fa2311c03431f66086bcdd57312513afd0eeb2b4938ce348d65e3107d"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/lib_vt.zig",
+    "sha256Lf": "1b5ba9f99015770190a1477e36f8dcc3f0fae2fc7b909244f986864d9c616da1"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/lib/c_abi.zig",
+    "sha256Lf": "da9f80838f71ce9f5bb5fb91175eb12a657f88a0728252ce69624611dea2fb7d"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/lib/compat/fmt.zig",
+    "sha256Lf": "b1436353da56218d7ca173c9c572bf04039cdff48c56c18a517014fab38119fd"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/lib/compat/repeat.zig",
+    "sha256Lf": "7e8e14343ad470471f0b53bc2796441d70fd1bb85d873181a01320b30e944b3e"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/lib/compat/testing.zig",
+    "sha256Lf": "5d1cc51b5f2203c2c73abd594856cb61c018b0b8db938c1fd9b8f0dcede4555b"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/lib/enum.zig",
+    "sha256Lf": "d8f5710e77185d912104d469c87016702134c45587df6fa5f97f4c2428e5328a"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/lib/packed.zig",
+    "sha256Lf": "b8f64925db2960641abd8b3eabba6c202af23faa633e59859e89048d1ce33cfb"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/lib/parse_int.zig",
+    "sha256Lf": "55e39a14b66d7179ee5c8711ff9666d33653291f9f61c98421027c911a99ecee"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/lib/struct.zig",
+    "sha256Lf": "cc58ad32a606191cd8dc0693c88b0a96d1dc205b023a93e02a0effcc0c7acfb9"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/lib/TinyIo.zig",
+    "sha256Lf": "ad6fdc294250a5e1fc9403e49350f7fd0e86f5cf1778fb86db5c1830a16174ce"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/lib/tinyio/test.zig",
+    "sha256Lf": "59166ea10e5dcc6b2d2ca90d07d1ee17d37538463dd56fbab36f6982e5c814a7"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/lib/tinyio/windows.zig",
+    "sha256Lf": "495af13fa8ed701beffd3bfa04047e3a02a7ec0e3891f8a7f069460dd4db459d"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/lib/union.zig",
+    "sha256Lf": "13a5acbf67cf559abb10509c7f31a52fdee94ec2fe4fb25639ae692d5401383e"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/main_c.zig",
+    "sha256Lf": "8e2e3a7392befd0d7c18b48fcdc922e5bca18dbe6ee08b3a70d7186cfdb5a17a"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/main_ghostty.zig",
+    "sha256Lf": "ed9cdca065500d45fcc7aff491b0025a037f31b40847f178cf8d5fec33115c69"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/main_wasm.zig",
+    "sha256Lf": "9883573c86c67dac4d4acbd5310eba33dcd0260363aede9627b4debc654df1be"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/os/flatpak.zig",
+    "sha256Lf": "2ba57cea4eec51acb8e8a7e2960ebe4d4926191c14baea8556399cef226485e3"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/os/i18n.zig",
+    "sha256Lf": "9f704009a3e5187f273a5f56ccde3beaa407fbe3bd69c2967027c647a1989e22"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/os/locale.zig",
+    "sha256Lf": "b0a56866f47c3636d9a0035d1f672d9e3e2735aa3e8322867ea99d001a827d2d"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/os/resourcesdir.zig",
+    "sha256Lf": "0a6aa8c14681ed485513a1a6de1fbacb4b48705f90a948c074a5dcf0203f50ab"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/os/string_encoding.zig",
+    "sha256Lf": "63f0c349ff3b7a214f688420326d12c5cef21a4e3f028771818924e1350c9c17"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/pty.zig",
+    "sha256Lf": "56cf183237fc6279405ed92150d9b0f3349aff2bc1c50c79cf69c3fe78d36688"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/quirks.zig",
+    "sha256Lf": "a99af78ec1c51c9970483938dd169f1b06732ecc0c1ee7e562037addb02d9722"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/renderer/metal/Pipeline.zig",
+    "sha256Lf": "190a3c1008d3d6c39843c5e4d22f2aecb7a0ecb579b5ca1cc6f5d05ee0afcd7f"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/renderer/metal/shaders.zig",
+    "sha256Lf": "79c0eacc8788cbdd1d55d405ad29599316465dfd6b73a536da5532ed7322a43b"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/renderer/OpenGL.zig",
+    "sha256Lf": "c8072cae88b1ee5c7deb801e58220a50d02cae29dfa30b7235a2371091691572"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/renderer/opengl/Pipeline.zig",
+    "sha256Lf": "46145036f8936adc796d02aaa1aa89875305ad36fb04c1a0e422413f191951bc"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/renderer/opengl/shaders.zig",
+    "sha256Lf": "39b0f2297c8eaeec804ae359abe8bb4e1d9bec66ea8759fb87eeaec01078081f"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/simd/base64_scalar.zig",
+    "sha256Lf": "b4bf066b311eea949253c42535d8c6a4d8cfa3eeea69b1dcb400e5a7b02e8fd4"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/simd/vt.zig",
+    "sha256Lf": "1cc1ea82698492e606417ab777fec2a710f8e7b5ee25b875e4e0397adb83d1ce"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/Surface.zig",
+    "sha256Lf": "a40ce3106062da26b69b68cc4b0252a627f5c84750d25f3a10cc14504e91046d"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/synthetic/cli.zig",
+    "sha256Lf": "ac3b44388f074e7c95d1a125b62402b9120d8282f476d0e5f92f215e5f557b11"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/terminal/apc.zig",
+    "sha256Lf": "cec5429ad5e50c363f0b7a428c536887291d950de99da1ffb12334b77d428ac6"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/terminal/apc/glyph/request.zig",
+    "sha256Lf": "a9f6d3648bbc880c94303cd30c6a872655dc12f4788926f23c2c8be49f79d6cd"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/terminal/build_options.zig",
+    "sha256Lf": "9229bab9bd69a889042b32c36d079f08e4a5a514d203ae21ee876f6c431632b1"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/terminal/c/build_info.zig",
+    "sha256Lf": "5c41a6976af160c7dc4d8bfecadc1ca544071cfd906041aa56bc371899304b2d"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/terminal/c/color.zig",
+    "sha256Lf": "6484ba4f8b41e9e386d22d55328cb9c99525e8742523c58069a0f4cd9358d254"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/terminal/c/formatter.zig",
+    "sha256Lf": "712860d378346a32cb54f59a37fdb32a2d6fdb13dc3dcc6bd7f7f4204c1024b1"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/terminal/c/io.zig",
+    "sha256Lf": "f0c026b8cb6aa75e330e1aa5c868322b8912efcbd6e57994bfd9eb4545b90baf"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/terminal/c/kitty_graphics.zig",
+    "sha256Lf": "d7e97303c957fb2fb2042bb47093ad1d6abdf366f063be1a5dc64f9d4d568f79"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/terminal/c/paste.zig",
+    "sha256Lf": "3486c16c57d87928d3017705d72bbdb23b40626fb549cecba85fac86afe3a1ff"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/terminal/c/render.zig",
+    "sha256Lf": "ddc03d01d499b24156a32f89856ad942a81d4d8b10df270b56388f9c767782fc"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/terminal/c/sgr.zig",
+    "sha256Lf": "7268b5d28f588a05b46934ca956f95a04d9617273932e4c09e907da19b61e205"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/terminal/c/style.zig",
+    "sha256Lf": "57e10bba6c676c5a1866bd1b29b019c57c184e3df1543ad09618cd9fba743525"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/terminal/c/sys.zig",
+    "sha256Lf": "f15aaab4ccdf8d5de3755b247eb56fe6a7e489faffce22bf541e0fcf6d564aa2"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/terminal/c/terminal.zig",
+    "sha256Lf": "197e5b46480174dfb7aeba88a38515d6e8679116f54d74988eaf7bda5b6f3bfa"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/terminal/c/types.zig",
+    "sha256Lf": "63a28d313af4818cf4b33bbaab4c153f2b5ada8770b8becf50cb3854c7b3d38d"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/terminal/charsets.zig",
+    "sha256Lf": "f2955b8740dbd8ebbbf7607279eba0c32061c0320af303411b6119a0622f1ea1"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/terminal/color.zig",
+    "sha256Lf": "8849355d6b84f22cf8341ec3576fe188a5558fccb038877a64eb8e5c0316c812"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/terminal/compress/lz4_differential.zig",
+    "sha256Lf": "566711b0b28d3f357f585dc1bd8af84bcffb7c263f1715e975e3729f55228ef4"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/terminal/device_status.zig",
+    "sha256Lf": "080d82cefb311f3706c00be96053a490e6e0c67f9cf7cc875b69d8df1b58aebb"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/terminal/formatter.zig",
+    "sha256Lf": "d38e5c3745e516df4c554d044ac65282fc12a856f37c3353465ff15a44af3ba9"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/terminal/fraction.zig",
+    "sha256Lf": "8aafe491e21301d93db2692a99f32b45650e53dc483b753d8756bb30b0ddacb9"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/terminal/kitty/clipboard_command.zig",
+    "sha256Lf": "8bf2c1b9f02aa2e9b7b5aee7ed4153c21d23ff081f777e2d4e3be32317d4b9a5"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/terminal/kitty/clipboard_response.zig",
+    "sha256Lf": "ed69c4c3da763c38763c43cd1028d1265299a20e8479da0e2d935ad72ad3d5bb"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/terminal/kitty/color.zig",
+    "sha256Lf": "5fd590696a665e3359bf90a72c9422bf077d18160543e287906dffa5f30085b2"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/terminal/kitty/dnd_response.zig",
+    "sha256Lf": "f6790b4947236aa044cb17492c9fd0c041660c6453c674865f8ffe5f46a9b1f0"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/terminal/kitty/dnd_test.zig",
+    "sha256Lf": "7caa49f43c9f5fe8dbdd3263f6d3254b0a379cd3c384e2945b1fe5129c163949"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/terminal/kitty/graphics_image.zig",
+    "sha256Lf": "cc418a34b4e29fe9ffa26e95c8a59e6c1f4c38425cacd861b6faf3e499542738"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/terminal/kitty/graphics_pixel.zig",
+    "sha256Lf": "4e0ae6f249962178866cc9e1f4d45c0e44406ecff41a27ce5401a28548dc5835"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/terminal/kitty/graphics_storage.zig",
+    "sha256Lf": "d1136f9e536063e98324b26c71a9ad0a1ee4adc705b642f147782728c9f6fdf9"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/terminal/modes.zig",
+    "sha256Lf": "c54226ad42e750ea38161c5f63a84dcbb0192deba3f633d295c13607be5518b7"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/terminal/osc/parsers/change_window_title.zig",
+    "sha256Lf": "f4cb1dcdb1bdb13d8e984bd04b905e0d9d1406c7fcb1211cf7457ee990fb4419"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/terminal/osc/parsers/color.zig",
+    "sha256Lf": "1970c5b3b13dee17f42e66183a17e0be32b26b1d918d59079abf6b1fa85089ba"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/terminal/osc/parsers/context_signal.zig",
+    "sha256Lf": "7b05ac1fe5105687a78e8b68b8826753131bdba210f162b8270493a2dbfae7d2"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/terminal/osc/parsers/iterm2.zig",
+    "sha256Lf": "9f598312ab45c53392fb10dc85b86e9afe5381d33b40ed006293a886fd990914"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/terminal/osc/parsers/kitty_desktop_notification.zig",
+    "sha256Lf": "b9b0229cb07f082a07904d115e20275e1444262e2509e872a8108eaad1596b54"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/terminal/osc/parsers/kitty_text_sizing.zig",
+    "sha256Lf": "0adde66097073565ecf71a9f18904a02e9ff973907833839e42def07585a510a"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/terminal/osc/parsers/program_status.zig",
+    "sha256Lf": "a801dfdea07f869e7178541f7213306abff40667bcb6b087b09d075f9620beb8"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/terminal/osc/parsers/unknown.zig",
+    "sha256Lf": "192deb7b25410b1f053173e0f8215b9014a62d1fd2599efff323bcd696fa14e2"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/terminal/page.zig",
+    "sha256Lf": "0e40c23eb524a9d70a04132f2fa889c6ce162e8e9974565663bb60642df4c276"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/terminal/PageList.zig",
+    "sha256Lf": "e5f71995575a1a4f55905cb07842e5d90492b755adc43944b67569a9b385cbc3"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/terminal/parse_table.zig",
+    "sha256Lf": "b771e703e31ba6fd76f064fc416cdc8ac8c52722232afab994cd2d12c79030ed"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/terminal/Parser.zig",
+    "sha256Lf": "d97fb95422a3b9997d5c05ca2b2a8bed45ae1c545900d883690531849c21dce0"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/terminal/Screen.zig",
+    "sha256Lf": "3f364b49c2e6c90eba3bb0c74d8ea4f3d219063c3aa23133829ed8d884ea1c28"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/terminal/search/sliding_window.zig",
+    "sha256Lf": "111904fc9c3ce61b3ce5dfec50307c5f62c7c38dd0b2157370e0c258bd5e8754"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/terminal/sgr.zig",
+    "sha256Lf": "89b46eb95af7bdce41fc0d6d297294667aa3f3101dc130161710c8583bcf85ae"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/terminal/snapshot/fixture.zig",
+    "sha256Lf": "002204bccceb692aec0b6fea4c56bd8c4ccf6330eb039364c2abe3ff603293a6"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/terminal/snapshot/record.zig",
+    "sha256Lf": "3428cc5a2be2b735f9eb33f208cd0fe4d62dc60d4bcabc13d6ea7edb4ce55657"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/terminal/snapshot/screen.zig",
+    "sha256Lf": "18169713f043fca170d815a17cf0147d096bef965a741fb454fe8b5e4804ceed"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/terminal/snapshot/snapshot.zig",
+    "sha256Lf": "ec22d21f04e93db0c7d1234cd1d792a0c336450e343dba52dc1fd9203b0358b5"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/terminal/snapshot/style.zig",
+    "sha256Lf": "85d4af8bd07078c7ebd18201502e08b8add0d0bf836498fba44343b0eb3aedbe"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/terminal/stream_continuation.zig",
+    "sha256Lf": "a4daa10c492a50acbc169bbe4cfaf57096fc24a3f5eadce53f5c3044f5dcd16d"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/terminal/stream_terminal.zig",
+    "sha256Lf": "bb0e381fdf9e54155d7021af9bea6e9d965221c0924a1529feeed48435cd2530"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/terminal/stream.zig",
+    "sha256Lf": "fad9bfdc38456409e8a1307b141ead402dd5ede8ab19dcb77f0c1b3fcee2a8a2"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/terminal/style.zig",
+    "sha256Lf": "2b31091f1736af0bab4de4af0a799747039a0a6c12c0e08088de4a25d5255097"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/terminal/Terminal.zig",
+    "sha256Lf": "93bcc1ba1eb806b61dac5dc9241cb4b68d4354f517ffec154f980e7272132cf8"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/terminal/tmux/control.zig",
+    "sha256Lf": "f815eb7d12d71df02fe3839090c7f5f3948f908e213bfa41e990c7720bebaff9"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/terminal/tmux/output.zig",
+    "sha256Lf": "1e3ffca662b007b1f1328a467e8eb919d76f148626bb1c3ccb76b95c4f8a2eeb"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/terminal/tmux/viewer.zig",
+    "sha256Lf": "7fd614d01ae0d328808ad308e798b58621a67f61f2bb48d13ec95be286f86d6c"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/termio/shell_integration.zig",
+    "sha256Lf": "3eb8611fa0c826ec9f716d1b61235081798802ef2d65f2d1a297f35831044f75"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/termio/stream_handler.zig",
+    "sha256Lf": "1eb68e830b7f7a7762de5fde4498153c6d4e1e56a9914ffee561096b4d50f0d8"
+  },
+  {
+    "project": "herdr-core",
+    "path": "vendor/ghostty/src/unicode/grapheme.zig",
+    "sha256Lf": "9680ddce30e19b9f3932fe1225c079ce37f4ed5d14469fa980faed217e6bc304"
+  }
+]

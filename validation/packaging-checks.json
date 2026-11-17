@@ -1,0 +1,37 @@
+{
+  "sourceReconstruction": {
+    "method": "Fresh local object clones, exact upstream revisions, four patches plus shared overlay; all LF-normalized hashes match; no unrecorded changes",
+    "files": 482,
+    "result": "passed"
+  },
+  "sourceVerifierExtraFileCheck": "passed: unexpected source file rejected",
+  "powershellParsing": {
+    "errors": 0,
+    "scripts": 6
+  },
+  "toolchainWrapper": "passed: native PE and pinned version checks; Git retained in process-local PATH",
+  "staging": {
+    "result": "passed",
+    "matchesOriginalInstalledCandidate": true,
+    "conPtyAuthenticode": "Valid",
+    "conPtyMemberHashes": "verified",
+    "files": 12,
+    "conPtyArchiveHash": "verified"
+  },
+  "publicDataScan": {
+    "scope": "all publication files",
+    "checks": [
+      "workstation home paths",
+      "private fleet identifiers",
+      "known credential patterns",
+      "private key markers",
+      "credentials in URLs",
+      "tailnet IP patterns"
+    ],
+    "result": "passed"
+  },
+  "documentationLinks": "passed",
+  "authoredWhitespace": "passed; original patches and Unicode data intentionally retain their content",
+  "buildWrapper": "passed: both native ARM64 release builds --locked --offline; final source verification passed with portable environment wrapper",
+  "committedCheckout": "passed: clean publication checkout reconstructed all 482 source hashes"
+}

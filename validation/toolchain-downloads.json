@@ -1,0 +1,22 @@
+[
+  {
+    "Url": "https://ziglang.org/download/0.17.1/zig-aarch64-windows-0.17.1.zip",
+    "Sha256": "4789895bdb1e312a2ea73b2a7c0a0cc8d2ab62ba6976e834a7c54cf443377c15",
+    "Name": "zig-0.17.1-arm64.zip"
+  },
+  {
+    "Url": "https://static.rust-lang.org/dist/2026-10-15/rustc-1.99.1-aarch64-pc-windows-msvc.tar.gz",
+    "Sha256": "52cb2f80a5afcd286533644cd2a18bf9ffb1da6fbb21e9cbe121ea40312a2c1b",
+    "Name": "rustc-1.99.1-arm64.tar.gz"
+  },
+  {
+    "Url": "https://static.rust-lang.org/dist/2026-10-15/cargo-1.99.1-aarch64-pc-windows-msvc.tar.gz",
+    "Sha256": "921930928e476bb61b4ec2b5e1b16cf09eebcd7e97f9bdeac821239b5ba19d10",
+    "Name": "cargo-1.99.1-arm64.tar.gz"
+  },
+  {
+    "Url": "https://static.rust-lang.org/dist/2026-10-15/rust-std-1.99.1-aarch64-pc-windows-msvc.tar.gz",
+    "Sha256": "3d971069a3a21418dd4a53a0429e76dd4b8bed33c7fc13241f0ef69b0c937ba3",
+    "Name": "rust-std-1.99.1-arm64.tar.gz"
+  }
+]

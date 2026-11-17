@@ -1,0 +1,27 @@
+{
+  "date": "2026-11-16",
+  "target": "aarch64-pc-windows-msvc",
+  "app": "0.1.16",
+  "core": "0.1.21",
+  "terminalSmoke": "passed: installed app connected to native core and executed HERDR_NATIVE_ARM64_OK",
+  "coreWindows": 38,
+  "coreUnit": 133,
+  "rustGhosttyBridge": 15,
+  "coreGhosttySnapshot": 338,
+  "appGhosttySnapshot": 340,
+  "imageLoadingPassed": 105,
+  "imageLoadingSkipped": 10,
+  "desktopGpuPixels": "passed",
+  "originalAppSha256": "83afea94b77dfc89c101aa0a3bb9265bb1cd0da519c485158b79e744dd9ebc20",
+  "originalCoreSha256": "46b66bffba8e261bd6a353ffa6d6622cde9bfe4ae1400e317001b419c35dc684",
+  "originalCandidateManifestSha256": "0839fcadb50c8a98a76e3213c61f1b325ff380d1afcc78d6d8eecce553e2a770",
+  "independentOriginalCodeReview": "unavailable; owner granted exact-candidate local installation exception",
+  "limitations": [
+    "full Ghostty suite incomplete",
+    "ReleaseSafe/Debug Zig stdlib ARM64 alignment error",
+    "rustfmt/clippy unavailable",
+    "inherited dependency advisories unresolved",
+    "unsigned local executables",
+    "no paid agent workflows"
+  ]
+}

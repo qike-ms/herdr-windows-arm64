@@ -1,0 +1,32 @@
+{
+  "target": "aarch64-pc-windows-msvc",
+  "projects": [
+    {
+      "name": "herdr-app",
+      "version": "0.1.16",
+      "url": "https://github.com/herdrdev/herdr-app.git",
+      "commit": "034f8b85f7e6bb71f8ff55cb4a80c548b2578c0f",
+      "ghosttyCommit": "291fd050b9e9c293c8adb6a140742649b7e42d3a"
+    },
+    {
+      "name": "herdr-core",
+      "version": "0.1.21",
+      "url": "https://github.com/herdrdev/herdr-core.git",
+      "commit": "1b0393f80c35b1dae34f37934d33d0144a8fc8d7",
+      "ghosttyCommit": "1e5cdb865807abc990181efb8ebfa9122955cce2"
+    }
+  ],
+  "ghosttyUrl": "https://github.com/ghostty-org/ghostty.git",
+  "uucode": {
+    "url": "https://github.com/jacobsandlund/uucode",
+    "version": "0.2.0",
+    "commit": "9d55524551411b493cca41ca06363625d90aff1e",
+    "note": "Existing pinned dependency, copied into the shared overlay and adapted to Zig 0.17 without regenerating Unicode data."
+  },
+  "translateC": {
+    "url": "https://codeberg.org/ziglang/translate-c",
+    "version": "2.0.0",
+    "commit": "02ff0c523fb92a38939b04d0145c4a9602a74d56",
+    "aroCommit": "d0c8c4d9c55daa7ef6e40cf0f630a5b5e900989b"
+  }
+}
